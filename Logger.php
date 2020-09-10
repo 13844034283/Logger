@@ -4,9 +4,9 @@
  * User: yuhy
  * DateTime: 2020/9/10 6:52
  */
-namespace App\Com\Utils\Logger;
+namespace Logger;
 
-use App\Com\Utils\Logger\WriteLogFactory\WriteLogFactory;
+use Logger\WriteLogFactory\WriteLogFactory;
 
 class Logger
 {

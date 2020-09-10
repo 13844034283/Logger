@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Com\Utils\Logger\WriteLogFactory;
+namespace Logger\WriteLogFactory;
 
 
 class WriteLogFactory{

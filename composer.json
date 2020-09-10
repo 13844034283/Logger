@@ -2,9 +2,6 @@
     "name": "yuhy/logger",
     "description": "日志",
     "type": "project",
-    "require": {
-        "ext-mysqli": "^7.3"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -12,5 +9,6 @@
             "email": "605042599@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
